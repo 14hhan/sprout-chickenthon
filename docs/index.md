@@ -3,7 +3,7 @@ home: true
 tagline: HI-ARC Sprout Chicken-thon
 ---
 
-# 7/9 20:00 기준 순위
+# 7/9 21:00 기준 순위
 
 <div class="center">
 

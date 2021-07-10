@@ -3,7 +3,7 @@ home: true
 tagline: HI-ARC Sprout Chicken-thon
 ---
 
-# 7/10 00:00 기준 순위
+# 7/10 14:00 기준 순위
 
 <div class="center">
 
@@ -13,6 +13,6 @@ tagline: HI-ARC Sprout Chicken-thon
 | 2 | yangyang |
 | 3 | danhandev |
 | 4 | uwoobeat |
-| 5 | wltnjeon0119 |
+| 5 | 5unny |
 
 </div>
